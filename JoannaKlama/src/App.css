@@ -1,0 +1,19 @@
+.highlight {
+  border: 2px solid red;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+  width: max-content;
+  height:max-content;
+}
+.image {
+  width: 150px;
+  height: 150px;
+  background-color: #ffffff;
+  color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
